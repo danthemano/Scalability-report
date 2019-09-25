@@ -1,2 +1,3 @@
 # Scalability-report
-AMD Processor Scalability: Ryzen 1800x vs. Ryzen 1950x (Threadripper)
+Report that tested the scalability of the AMD Processor Ryzen 1800x vs. Ryzen 1950x (Threadripper).
+In this experiment we tried to determine which chipset scales better, if we would see a 1:1 ratio of performance increase when increasing the number of threads for the same size problem. Additionally, we tested the chips to see if when we increase the problem size would the execution time remain constant when also increasing the number of threads, and we used various performance metrics to collect data on the performance of each processor. Finally, we tried to determine whether either had good performance with regards to weak and strong scalling.
